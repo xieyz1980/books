@@ -1,4 +1,4 @@
-# 第9章：MLOps与CI/CD - AI时代的DevOps
+# 第9章：MLOps与CI/CD——AI时代的DevOps
 
 **目标字数**: 15,000字  
 **配图**: 5张 (MLOps生命周期图、工具栈全景图、CI/CD流水线图、部署策略对比图、监控架构图)  
